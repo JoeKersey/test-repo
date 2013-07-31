@@ -20,7 +20,7 @@ passport_from,field_ds_passport,field_pp_date_issue
 passport_to,field_ds_passport,field_pp_date_expiry
 employment_status,field_ds_employment,field_emp_start_date
 home_postcode,field_ds_home,field_home_postcode
-home_number,field_ds_home,field_home_street
+home_bname,field_ds_home,field_home_street
 home_street,field_ds_home,field_home_street
 home_locality,field_ds_home,field_home_street
 home_town,field_ds_home,field_home_town
